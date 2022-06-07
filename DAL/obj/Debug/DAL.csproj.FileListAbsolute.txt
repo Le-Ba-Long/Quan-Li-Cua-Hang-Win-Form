@@ -1,0 +1,27 @@
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\DAL\bin\Debug\DAL.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\DAL\bin\Debug\DAL.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\DAL\bin\Debug\DTO.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\DAL\bin\Debug\DTO.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\DAL\obj\Debug\DAL.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\DAL\obj\Debug\DAL.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DAL\bin\Debug\DAL.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DAL\bin\Debug\DAL.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DAL\bin\Debug\DTO.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DAL\bin\Debug\DTO.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DAL\obj\Debug\DAL.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DAL\obj\Debug\DAL.pdb
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DAL\bin\Debug\DAL.dll
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DAL\bin\Debug\DAL.pdb
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DAL\bin\Debug\DTO.dll
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DAL\bin\Debug\DTO.pdb
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DAL\obj\Debug\DAL.dll
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DAL\obj\Debug\DAL.pdb

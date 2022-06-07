@@ -1,0 +1,33 @@
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\BUS\bin\Debug\BUS.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\BUS\bin\Debug\BUS.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\BUS\bin\Debug\DAL.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\BUS\bin\Debug\DTO.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\BUS\bin\Debug\DAL.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\BUS\bin\Debug\DTO.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\BUS\obj\Debug\BUS.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\BUS\obj\Debug\BUS.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\BUS\bin\Debug\BUS.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\BUS\bin\Debug\BUS.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\BUS\bin\Debug\DAL.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\BUS\bin\Debug\DTO.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\BUS\bin\Debug\DAL.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\BUS\bin\Debug\DTO.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\BUS\obj\Debug\BUS.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\BUS\obj\Debug\BUS.pdb
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\BUS\bin\Debug\BUS.dll
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\BUS\bin\Debug\BUS.pdb
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\BUS\bin\Debug\DAL.dll
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\BUS\bin\Debug\DTO.dll
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\BUS\bin\Debug\DAL.pdb
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\BUS\bin\Debug\DTO.pdb
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\BUS\obj\Debug\BUS.dll
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\BUS\obj\Debug\BUS.pdb

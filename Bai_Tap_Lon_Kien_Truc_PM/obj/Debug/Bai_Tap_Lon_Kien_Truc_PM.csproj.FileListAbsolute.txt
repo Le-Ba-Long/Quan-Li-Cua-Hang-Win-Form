@@ -1,0 +1,72 @@
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\Bai_Tap_Lon_Kien_Truc_PM.exe.config
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\Bai_Tap_Lon_Kien_Truc_PM.exe
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\Bai_Tap_Lon_Kien_Truc_PM.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.csprojAssemblyReference.cache
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.Properties.Resources.resources
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.csproj.GenerateResource.cache
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.csproj.CoreCompileInputs.cache
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.exe
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\BUS.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\DTO.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\GUI.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\DAL.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\BUS.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\DTO.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\GUI.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\DAL.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.csproj.CopyComplete
+C:\Users\phamv\OneDrive\Máy tính\Kiến trúc và thiết kế phần mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\Bai_Tap_Lon_Kien_Truc_PM.exe.config
+C:\Users\phamv\OneDrive\Máy tính\Kiến trúc và thiết kế phần mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\Bai_Tap_Lon_Kien_Truc_PM.exe
+C:\Users\phamv\OneDrive\Máy tính\Kiến trúc và thiết kế phần mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\Bai_Tap_Lon_Kien_Truc_PM.pdb
+C:\Users\phamv\OneDrive\Máy tính\Kiến trúc và thiết kế phần mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\BUS.dll
+C:\Users\phamv\OneDrive\Máy tính\Kiến trúc và thiết kế phần mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\DTO.dll
+C:\Users\phamv\OneDrive\Máy tính\Kiến trúc và thiết kế phần mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\GUI.dll
+C:\Users\phamv\OneDrive\Máy tính\Kiến trúc và thiết kế phần mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\DAL.dll
+C:\Users\phamv\OneDrive\Máy tính\Kiến trúc và thiết kế phần mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\BUS.pdb
+C:\Users\phamv\OneDrive\Máy tính\Kiến trúc và thiết kế phần mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\DTO.pdb
+C:\Users\phamv\OneDrive\Máy tính\Kiến trúc và thiết kế phần mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\GUI.pdb
+C:\Users\phamv\OneDrive\Máy tính\Kiến trúc và thiết kế phần mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\DAL.pdb
+C:\Users\phamv\OneDrive\Máy tính\Kiến trúc và thiết kế phần mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.csprojAssemblyReference.cache
+C:\Users\phamv\OneDrive\Máy tính\Kiến trúc và thiết kế phần mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.Properties.Resources.resources
+C:\Users\phamv\OneDrive\Máy tính\Kiến trúc và thiết kế phần mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.csproj.GenerateResource.cache
+C:\Users\phamv\OneDrive\Máy tính\Kiến trúc và thiết kế phần mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.csproj.CoreCompileInputs.cache
+C:\Users\phamv\OneDrive\Máy tính\Kiến trúc và thiết kế phần mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.csproj.CopyComplete
+C:\Users\phamv\OneDrive\Máy tính\Kiến trúc và thiết kế phần mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.exe
+C:\Users\phamv\OneDrive\Máy tính\Kiến trúc và thiết kế phần mềm\Bai_Tap_Lon_Kien_Truc_PM\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\Bai_Tap_Lon_Kien_Truc_PM.exe.config
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\Bai_Tap_Lon_Kien_Truc_PM.exe
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\Bai_Tap_Lon_Kien_Truc_PM.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\BUS.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\DTO.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\GUI.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\DAL.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\BUS.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\DTO.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\GUI.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\DAL.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.csprojAssemblyReference.cache
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.Properties.Resources.resources
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.csproj.GenerateResource.cache
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.csproj.CoreCompileInputs.cache
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.csproj.CopyComplete
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.exe
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.pdb
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\Bai_Tap_Lon_Kien_Truc_PM.exe.config
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\Bai_Tap_Lon_Kien_Truc_PM.exe
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\Bai_Tap_Lon_Kien_Truc_PM.pdb
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\BUS.dll
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\DTO.dll
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\GUI.dll
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\DAL.dll
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\BUS.pdb
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\DTO.pdb
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\GUI.pdb
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\bin\Debug\DAL.pdb
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.csproj.AssemblyReference.cache
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.Properties.Resources.resources
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.csproj.GenerateResource.cache
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.csproj.CoreCompileInputs.cache
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.csproj.CopyComplete
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.exe
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\Bai_Tap_Lon_Kien_Truc_PM\obj\Debug\Bai_Tap_Lon_Kien_Truc_PM.pdb

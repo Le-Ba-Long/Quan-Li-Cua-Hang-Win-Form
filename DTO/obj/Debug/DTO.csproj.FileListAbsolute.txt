@@ -1,0 +1,12 @@
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\DTO\bin\Debug\DTO.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\DTO\bin\Debug\DTO.pdb
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\DTO\obj\Debug\DTO.dll
+E:\Kiến Trúc Và Thiết Kế Phần Mềm\Bai_Tap_Lon_Kien_Truc_PM\DTO\obj\Debug\DTO.pdb
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DTO\bin\Debug\DTO.dll
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DTO\bin\Debug\DTO.pdb
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DTO\obj\Debug\DTO.dll
+E:\Năm 4 Kỳ 1\Kiến Trúc Và Thiết Kế Phần Mềm\Kien_Truc_Phan_Mem\DTO\obj\Debug\DTO.pdb
